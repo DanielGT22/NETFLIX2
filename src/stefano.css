@@ -1,0 +1,9 @@
+h2 {
+  font-style: italic;
+}
+
+header {
+  /* questa regola in realtà viene resa disponibile per l'intera pagina, anche se
+    la sto importando solamente nel componente Stefano */
+  /* visibility: hidden; */
+}
